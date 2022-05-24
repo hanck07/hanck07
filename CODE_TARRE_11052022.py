@@ -1,4 +1,5 @@
 import time
+import cv2
 
 #Declaramos la dirección del 953 y 954
 D954 = 0x60
